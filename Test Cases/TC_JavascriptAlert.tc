@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_JavascriptAlert</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>67c9ad9b-e352-4419-9fa1-ea6130e90821</testCaseGuid>
+   <variable>
+      <defaultValue>5</defaultValue>
+      <description></description>
+      <id>b3fc958b-ab23-41c5-b6f0-51d1b2256ba0</id>
+      <masked>false</masked>
+      <name>LOAD_PAGE_WAITING</name>
+   </variable>
+   <variable>
+      <defaultValue>2</defaultValue>
+      <description></description>
+      <id>faf6bb47-a013-415d-95cf-a666dd448d7f</id>
+      <masked>false</masked>
+      <name>DELAY</name>
+   </variable>
+</TestCaseEntity>

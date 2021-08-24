@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a2b48b02-738d-4558-b5a4-af0de4a56d19</testCaseGuid>
+   <variable>
+      <defaultValue>'tomsmith'</defaultValue>
+      <description></description>
+      <id>d29bd039-225d-4742-851b-f0a14d026344</id>
+      <masked>false</masked>
+      <name>user_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'SuperSecretPassword!'</defaultValue>
+      <description></description>
+      <id>291c550f-2c70-4868-b23e-c8ed09da9c4a</id>
+      <masked>false</masked>
+      <name>user_pass</name>
+   </variable>
+</TestCaseEntity>
